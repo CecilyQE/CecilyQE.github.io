@@ -29,7 +29,7 @@ author:
   bio              : "Bsc. Computer Science - Artificial Intelligence"
   location         : "Montreal, QC, Canada"
   employer         : "McGill University"
-  uri              : "URL"
+  uri              : # "URL"
   email            : "tianxin.huang@mail.mcgill.ca" 
 
   # Academic websites
